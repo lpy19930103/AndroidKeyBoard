@@ -2,9 +2,6 @@
 android自定义键盘
 
 
-`dependencies {
-	        compile 'com.github.lpy19930103:AndroidDatePicker:ba0e949bbd'
-	}`
 
 
 ![image](https://github.com/lpy19930103/AndroidKeyBoard/blob/master/keyboard.gif)
