@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#333333</color>
+
+    <color name="line_color_dark">#d8d8d8</color>
+    <color name="pressed_color">#ebebeb</color>
+    <color name="banner_color">#fdfdfd</color>
+    <color name="keyboard_integer">#d1d5db</color>
+    <color name="keyboard_enter">#FEF8E7</color>
+    <color name="keyboard_pwd_delete">#fbfbfb</color>
+    <color name="keyboard_enter_before">#c6ad64</color>
+    <color name="keyboard_enter_after">#bda55f</color>
+</resources>
